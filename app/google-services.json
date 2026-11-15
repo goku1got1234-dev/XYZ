@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172533036768",
+    "project_id": "mi7guild",
+    "storage_bucket": "mi7guild.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172533036768:android:498151b60b842da53c4285",
+        "android_client_info": {
+          "package_name": "com.free.mi7guild"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpzCaMGk2UcV9LbPqU2BrCPyUtpeFQ6TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
